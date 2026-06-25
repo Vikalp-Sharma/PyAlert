@@ -38,16 +38,7 @@ Detect Python crashes automatically and trigger a **servo movement** and **audio
 * 🖥️ Bash support
 * 🖥️ Zsh support
 * 🎯 Lightweight and fast
-
 ---
-
-# 📸 Hardware Setup
-
-> Add your hardware image here:
-
-```md
-![PyAlert Setup](images/setup.jpg)
-```
 
 Example:
 
@@ -234,13 +225,11 @@ Expected:
 PyAlert/
 ├── install.sh
 ├── uninstall.sh
-├── pyalert_daemon.py
 ├── README.md
-├── images/
-│   └── setup.jpg
-└── shell_hooks/
-    ├── bash_hook.sh
-    └── zsh_hook.sh
+├── trigger_alert.py
+├── notify_error.py
+└── ino/error_alert
+     └── error_alert.ino
 ```
 
 ---
