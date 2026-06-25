@@ -40,17 +40,6 @@ Detect Python crashes automatically and trigger a **servo movement** and **audio
 * 🎯 Lightweight and fast
 ---
 
-Example:
-
-```
-PyAlert/
-├── images/
-│   └── setup.jpg
-└── README.md
-```
-
----
-
 # 🔧 Arduino Pins
 
 ```cpp
