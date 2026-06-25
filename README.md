@@ -116,7 +116,7 @@ SD Card
 Copy and paste:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PyAlert.git
+git clone https://github.com/Vikalp-Sharma/PyAlert.git
 cd PyAlert
 
 bash install.sh
