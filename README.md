@@ -13,7 +13,7 @@
 
 Detect Python crashes automatically and trigger a **servo movement** and **audio alert** on an Arduino.
 
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-PyAlert-blueviolet)
 ![Platform](https://img.shields.io/badge/Linux-supported-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Arduino](https://img.shields.io/badge/Arduino-Compatible-teal)
